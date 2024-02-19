@@ -20,7 +20,7 @@ El Bootcamp de Henry me ha permitido adquirir conocimiento y experiencia fundame
 •	PostgreSQL
 
 QUE SERVICIOS OFREZCO
-Me quiero desempeñar en resolución de problemas relacionados al código en BACK END || FRONT END || FULLSTACK DEVELOPER
+Me quiero desempeñar en resolución de problemas relacionados al código en BACK-END.
 Me veo a mi mismo como un proyecto en constante evolución. Cada día es una oportunidad para superarme a mí mismo y crecer como programador y como persona. La programación no solo es mi profesión, sino también mi viaje personal de autodescubrimiento y superación continua.
 
 IDIOMAS
