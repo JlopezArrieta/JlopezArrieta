@@ -10,7 +10,6 @@ TECNOLOGIAS QUE USO
 El Bootcamp de Henry me ha permitido adquirir conocimiento y experiencia fundamental para despegar, por lo que las tecnologías que manejo son:
 •	JavaScript
 •	HTML
-•	CSS 
 •	React
 •	Redux
 •	Express
