@@ -2,7 +2,7 @@ Hola!  Mi nombre es Javier López Arrieta
 Aquí encontraras toda mi información
 QUIEN SOY?
 Soy un programador full stack developer orientado al back-end.
-Me gusta aprender cosas nuevas y cuando me gustan me apasiono por seguir aprendiendo.
+Me gusta aprender cosas nuevas y me apasiona seguir aprendiendo cosas nuevas.
 Me gradué como Tecnólogo en Mantenimiento de equipos Biomédicos y como ingeniero biomédico. Trabajé en el área de instalación y manejo de equipos médicos, en infraestructura hospitalaria y el área de la metrología de equipos médicos, de laboratorio e industriales. Viaje por todo mi país Colombia donde conocí y trate a muchas personas y aprendí mucho de diferentes culturas.
 Hoy en día un entusiasta de la programación y con ganas de seguir adquiriendo más conocimiento en el área de la programación.
 
