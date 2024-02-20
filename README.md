@@ -1,5 +1,6 @@
-Hola!  Mi nombre es Javier López Arrieta/n
-Aquí encontraras toda mi información/n
+Hola!
+Soy Javier López Arrieta
+Aquí encontraras toda mi información
 QUIEN SOY?
 Soy un programador full stack developer orientado al back-end.
 Me gusta aprender cosas nuevas y me apasiona el hecho de seguir aprendiendo.
@@ -18,16 +19,15 @@ El Bootcamp de Henry me ha permitido adquirir conocimiento y experiencia fundame
 •	Sequelize
 •	PostgreSQL
 
-QUE SERVICIOS OFREZCO
+QUE SERVICIOS OFREZCO?
+
 Me quiero desempeñar en resolución de problemas relacionados al código en BACK-END.
 Me veo a mi mismo como un proyecto en constante evolución. Cada día es una oportunidad para superarme a mí mismo y crecer como programador y como persona. La programación no solo es mi profesión, sino también mi viaje personal de autodescubrimiento y superación continua.
 
-IDIOMAS
+IDIOMAS?
 Ingles básico
-Español
 
-DONDE CONTACTARME
-Puedes contactarme:
+DONDE CONTACTARME?
 e-mail: javilop87@hotmail.com
 LinkedIn: https://www.linkedin.com/feed/?trk=nav_logo
 teléfono: +57 3147516959
