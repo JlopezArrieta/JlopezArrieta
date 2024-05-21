@@ -29,6 +29,8 @@ Me quiero desempeñar en resolución de problemas relacionados al código en BAC
 IDIOMAS?                                                                                      
 Ingles básico
 
+PORTFOLIO:                                                            
+https://portfoliojavierlopez.my.canva.site/web-portfolio
 
 DONDE CONTACTARME?                                                                 
 e-mail: javilop87@hotmail.com                                                                                
